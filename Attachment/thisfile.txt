@@ -1,0 +1,12 @@
+Server: gmail
+User: comp348a4@gmail.com
+Password: skrbsr05
+To: balkar_rana96@hotmail.com
+CC: test@mail.com, 234@mail.com
+BCC: tetet@mail.com, dsgtdsgs@mail.com, 33tfdgd@mail.com
+Subject: Test Subject
+File: test.zip
+Body: multiple lies of text representing the body of the email
+Adad
+Ada-dad
+Adada
